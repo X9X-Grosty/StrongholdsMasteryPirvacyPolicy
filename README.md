@@ -9,6 +9,7 @@ Information We Collect:
 Your Discord ID
 Your interactions with the bot
 Any other relevant data you provide through your use of the bot
+
 How We Use Information:
 We use the information we collect to operate, maintain, and provide the features and functionality of the bot, as well as to communicate directly with you, such as to send you alerts and messages.
 
