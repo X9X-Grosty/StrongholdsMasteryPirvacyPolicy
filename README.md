@@ -8,8 +8,8 @@ within Discord, aligned with the Data Protection Act 2018 and UK GDPR requiremen
 
 ## Information We Collect
 
-The bot stores the minimum Discord data needed for its features, on the operator's
-private server:
+The bot stores the minimum Discord data needed for its features, on the bot's
+private server instance at a managed hosting provider:
 
 - **Discord user IDs and server IDs** — to associate users with features they opt
   into (vacation/absence tracking, party membership, self-assigned roles, language
@@ -48,9 +48,14 @@ transmission over the Internet, or method of electronic storage, is 100% secure.
 
 ## Data Retention and Deletion
 
-Data is kept only while the associated feature entry exists. Removing the bot
-from a server ends collection for that server. You have the right to access,
-amend, and delete your personal data at any time by contacting us directly.
+Data tied to a feature you opt into is retained while that feature entry remains
+active, which may be longer than 30 days. Entries are deleted when you or a
+server administrator remove them, when the bot leaves a server, or on request.
+
+You have the right to access, amend, and delete your personal data at any time.
+To request deletion, contact us through the support server ([SUPPORT_SERVER_INVITE])
+or message the operator directly on Discord (therealgrosty). Requests are
+processed manually and honored promptly.
 
 ## Changes to This Policy
 
@@ -58,4 +63,5 @@ Updates will be announced by posting revised versions to this location.
 
 ## Contact Us
 
-Reach out via the support server for inquiries regarding this policy.
+Reach out via the support server ([SUPPORT_SERVER_INVITE]) or contact the
+operator on Discord (therealgrosty) for inquiries regarding this policy.
