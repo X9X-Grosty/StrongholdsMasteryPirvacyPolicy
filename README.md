@@ -8,14 +8,15 @@ within Discord, aligned with the Data Protection Act 2018 and UK GDPR requiremen
 
 ## Information We Collect
 
-The bot stores the minimum Discord data needed for its features, on the bot's
-private server instance at a managed hosting provider:
+The bot stores the minimum Discord data needed for its features, on the
+operator's own private server:
 
-- **Discord user IDs and server IDs** — to associate users with features they opt
-  into (vacation/absence tracking, party membership, self-assigned roles, language
-  preference).
-- **Role and channel IDs** — per-server configuration (welcome channel, ban/log
-  channels, self-role setup).
+- **Discord user IDs** — only where a feature needs them: war-party membership,
+  your language preference, and moderation audit entries.
+- **Server, channel, and role IDs** — per-server configuration (welcome channel,
+  ban/log channels, vacation channels, self-role setup).
+- **In-game player names** — for vacation tracking and player notes; these are
+  game identities, not Discord accounts.
 - **Bot interaction records** — command usage needed to operate those features.
 - Any supplementary data you voluntarily provide through commands.
 
@@ -43,8 +44,10 @@ authorize disclosure or legal obligations necessitate sharing.
 
 ## Data Security
 
-Multiple protective measures safeguard your information, though no method of
-transmission over the Internet, or method of electronic storage, is 100% secure.
+Stored data is encrypted at rest, at both the database level and the file level,
+and access to the server is restricted to the operator. As with any online
+service, no method of transmission over the Internet, or method of electronic
+storage, is 100% secure.
 
 ## Data Retention and Deletion
 
