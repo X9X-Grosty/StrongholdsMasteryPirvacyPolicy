@@ -1,4 +1,4 @@
-# Privacy Policy for Strongholds Mastery
+[# Privacy Policy for Strongholds Mastery
 
 **Effective Date:** 03/11/2023
 **Last Updated:** 30/08/2026
@@ -65,3 +65,4 @@ Updates will be announced by posting revised versions to this location.
 
 Reach out via the support server ([SUPPORT_SERVER_INVITE]) or contact the
 operator on Discord (therealgrosty) for inquiries regarding this policy.
+](https://discord.gg/5eHFZybr6n)
