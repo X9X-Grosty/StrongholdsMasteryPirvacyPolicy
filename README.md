@@ -57,7 +57,7 @@ server administrator remove them, when the bot leaves a server, or on request.
 
 You have the right to access, amend, and delete your personal data at any time.
 To request deletion, contact us through the support server (https://discord.gg/5eHFZybr6n)
-or message the operator directly on Discord (therealgrosty). Requests are
+or message the operator directly on Discord (ghxstinthesystem). Requests are
 processed manually and honored promptly.
 
 ## Changes to This Policy
@@ -67,4 +67,4 @@ Updates will be announced by posting revised versions to this location.
 ## Contact Us
 
 Reach out via the support server (https://discord.gg/5eHFZybr6n) or contact the
-operator on Discord (therealgrosty) for inquiries regarding this policy.
+operator on Discord (ghxstinthesystem) for inquiries regarding this policy.
